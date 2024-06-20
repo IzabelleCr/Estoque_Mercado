@@ -20,7 +20,7 @@ Este repositório contém um projeto de gestão de estoque de supermercado desen
 ## Como Executar
 
 ### Clone o repositório:
-- git clone https://github.com/seu-usuario/Estoque_Mercado.git
+- git clone https://github.com/IzabelleCr/Estoque_Mercado
 
 ### Navegue até o diretório do projeto:
 - cd Estoque_Mercado

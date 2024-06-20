@@ -6,7 +6,7 @@
 typedef struct Compra {
     char data[11]; // formato dd/mm/yyyy
     int quantidade;
-    int inicial; // 0 para compras normais, 1 para produtos carregados inicialmente
+    int inicial; 
     struct Compra *prox;
 } Compra;
 

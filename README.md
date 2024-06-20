@@ -3,7 +3,7 @@
 
 ## Este repositório contém um projeto de gestão de estoque de supermercado desenvolvido em linguagem C. O objetivo do projeto é fornecer uma ferramenta eficiente para gerenciar o inventário de produtos, facilitando o controle de entradas, saídas e consultas de itens no estoque.
 
-##Funcionalidades
+## Funcionalidades
 
 - Adicionar Produtos: Permite a inserção de novos produtos no estoque, incluindo detalhes como nome, código, quantidade e preço.
 - Atualizar Produtos: Possibilita a atualização das informações dos produtos já cadastrados.

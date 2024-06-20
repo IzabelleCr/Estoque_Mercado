@@ -1,7 +1,7 @@
-## Gestão de Estoque de Supermercado 
+# Gestão de Estoque de Supermercado 
 
 
-# Este repositório contém um projeto de gestão de estoque de supermercado desenvolvido em linguagem C. O objetivo do projeto é fornecer uma ferramenta eficiente para gerenciar o inventário de produtos, facilitando o controle de entradas, saídas e consultas de itens no estoque.
+## Este repositório contém um projeto de gestão de estoque de supermercado desenvolvido em linguagem C. O objetivo do projeto é fornecer uma ferramenta eficiente para gerenciar o inventário de produtos, facilitando o controle de entradas, saídas e consultas de itens no estoque.
 
 ##Funcionalidades
 
